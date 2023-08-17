@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Taboo0-0
+- 👀 I’m interested in Computer Science;
+- 🌱 I’m currently learning Python, JavaScript and am currently taking the CS50 Course;
+- 💞️ I’m looking to collaborate on anyhting that will further my knowledge.
+- 📫 How to reach me Discord: 7aboo
